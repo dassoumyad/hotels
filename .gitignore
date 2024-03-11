@@ -1,0 +1,4 @@
+# ignore node_modules dictory
+node_modules/
+
+# other entries...
